@@ -12,6 +12,7 @@ namespace FirstTestProject
 
             Obj.AppLogin("username", "password");
             Obj.classthreemethod();
+            added line in main mehtod
 
             Thread.Sleep(100000);
         }
